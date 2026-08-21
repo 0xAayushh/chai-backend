@@ -27,3 +27,5 @@ const uploadOnCloudinary =async (localFilePath) =>{
 // cloudinary.v2.uploader.upload("/home/my_image.jpg", {upload_preset: "my_preset"}, (error, result)=>{
 //   console.log(result, error);
 // });
+
+export default {uploadOnCloudinary} 

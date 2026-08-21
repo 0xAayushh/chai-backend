@@ -8,3 +8,4 @@ class apiResponse {
 }
 
 //statuscode hw for search 
+export {apiResponse}
